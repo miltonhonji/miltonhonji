@@ -11,7 +11,7 @@
 ![HTML5](https://img.shields.io/badge/HTML5-FFF?style=for-the-badge&logo=html5)
 ![CSS 3](https://img.shields.io/badge/CSS3-FFF?style=for-the-badge&logo=css3)
 ![Angular](https://img.shields.io/badge/Angular-FFF?style=for-the-badge&logo=angular)
-
+![TypeScript](https://img.shields.io/badge/TypeScript-FFF?style=for-the-badge&logo=TypeScript)
 
 ## GitHub Stats
 
