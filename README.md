@@ -9,7 +9,7 @@
 
 ![C#](https://img.shields.io/badge/C%23-FFF?style=for-the-badge&logo=c-sharp&logoColor=823085)
 ![HTML5](https://img.shields.io/badge/HTML5-FFF?style=for-the-badge&logo=html5)
-![CSS 3](https://img.shields.io/badge/CSS3-FFF?style=for-the-badge&logo=html5)
+![CSS 3](https://img.shields.io/badge/CSS3-FFF?style=for-the-badge&logo=css3)
 
 
 ## GitHub Stats
